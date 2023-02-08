@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\postoDeCombustivel\bin\Debug\net7.0\postoDeCombustivel.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\postoDeCombustivel\bin\Debug\net7.0\postoDeCombustivel.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\postoDeCombustivel\bin\Debug\net7.0\postoDeCombustivel.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\postoDeCombustivel\bin\Debug\net7.0\postoDeCombustivel.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\postoDeCombustivel\bin\Debug\net7.0\postoDeCombustivel.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\postoDeCombustivel\obj\Debug\net7.0\postoDeCombustivel.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\postoDeCombustivel\obj\Debug\net7.0\postoDeCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\postoDeCombustivel\obj\Debug\net7.0\postoDeCombustivel.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\postoDeCombustivel\obj\Debug\net7.0\postoDeCombustivel.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\postoDeCombustivel\obj\Debug\net7.0\postoDeCombustivel.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\postoDeCombustivel\obj\Debug\net7.0\postoDeCombustivel.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\postoDeCombustivel\obj\Debug\net7.0\refint\postoDeCombustivel.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\postoDeCombustivel\obj\Debug\net7.0\postoDeCombustivel.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\postoDeCombustivel\obj\Debug\net7.0\postoDeCombustivel.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\postoDeCombustivel\obj\Debug\net7.0\ref\postoDeCombustivel.dll

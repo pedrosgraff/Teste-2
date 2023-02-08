@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\AlunoNotas\bin\Debug\net7.0\AlunoNotas.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\AlunoNotas\bin\Debug\net7.0\AlunoNotas.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\AlunoNotas\bin\Debug\net7.0\AlunoNotas.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\AlunoNotas\bin\Debug\net7.0\AlunoNotas.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\AlunoNotas\bin\Debug\net7.0\AlunoNotas.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\AlunoNotas\obj\Debug\net7.0\AlunoNotas.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\AlunoNotas\obj\Debug\net7.0\AlunoNotas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\AlunoNotas\obj\Debug\net7.0\AlunoNotas.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\AlunoNotas\obj\Debug\net7.0\AlunoNotas.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\AlunoNotas\obj\Debug\net7.0\AlunoNotas.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\AlunoNotas\obj\Debug\net7.0\AlunoNotas.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\AlunoNotas\obj\Debug\net7.0\refint\AlunoNotas.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\AlunoNotas\obj\Debug\net7.0\AlunoNotas.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\AlunoNotas\obj\Debug\net7.0\AlunoNotas.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\AlunoNotas\obj\Debug\net7.0\ref\AlunoNotas.dll

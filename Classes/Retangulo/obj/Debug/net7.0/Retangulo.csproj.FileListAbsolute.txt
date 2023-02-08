@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\Retangulo\obj\Debug\net7.0\Retangulo.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\Retangulo\obj\Debug\net7.0\Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\Retangulo\obj\Debug\net7.0\Retangulo.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\Retangulo\obj\Debug\net7.0\Retangulo.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\Retangulo\obj\Debug\net7.0\Retangulo.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\Retangulo\bin\Debug\net7.0\Retangulo.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\Retangulo\bin\Debug\net7.0\Retangulo.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\Retangulo\bin\Debug\net7.0\Retangulo.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\Retangulo\bin\Debug\net7.0\Retangulo.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\Retangulo\bin\Debug\net7.0\Retangulo.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\Retangulo\obj\Debug\net7.0\Retangulo.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\Retangulo\obj\Debug\net7.0\refint\Retangulo.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\Retangulo\obj\Debug\net7.0\Retangulo.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\Retangulo\obj\Debug\net7.0\Retangulo.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\Retangulo\obj\Debug\net7.0\ref\Retangulo.dll

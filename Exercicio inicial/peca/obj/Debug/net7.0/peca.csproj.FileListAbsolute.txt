@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\peca\obj\Debug\net7.0\peca.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\peca\obj\Debug\net7.0\peca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\peca\obj\Debug\net7.0\peca.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\peca\obj\Debug\net7.0\peca.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\peca\obj\Debug\net7.0\peca.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\peca\bin\Debug\net7.0\peca.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\peca\bin\Debug\net7.0\peca.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\peca\bin\Debug\net7.0\peca.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\peca\bin\Debug\net7.0\peca.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\peca\bin\Debug\net7.0\peca.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\peca\obj\Debug\net7.0\peca.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\peca\obj\Debug\net7.0\refint\peca.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\peca\obj\Debug\net7.0\peca.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\peca\obj\Debug\net7.0\peca.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\peca\obj\Debug\net7.0\ref\peca.dll

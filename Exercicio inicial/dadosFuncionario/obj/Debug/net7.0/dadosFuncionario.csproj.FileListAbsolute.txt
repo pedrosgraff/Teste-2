@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\dadosFuncionario\bin\Debug\net7.0\dadosFuncionario.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\dadosFuncionario\bin\Debug\net7.0\dadosFuncionario.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\dadosFuncionario\bin\Debug\net7.0\dadosFuncionario.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\dadosFuncionario\bin\Debug\net7.0\dadosFuncionario.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\dadosFuncionario\bin\Debug\net7.0\dadosFuncionario.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\dadosFuncionario\obj\Debug\net7.0\dadosFuncionario.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\dadosFuncionario\obj\Debug\net7.0\dadosFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\dadosFuncionario\obj\Debug\net7.0\dadosFuncionario.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\dadosFuncionario\obj\Debug\net7.0\dadosFuncionario.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\dadosFuncionario\obj\Debug\net7.0\dadosFuncionario.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\dadosFuncionario\obj\Debug\net7.0\dadosFuncionario.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\dadosFuncionario\obj\Debug\net7.0\refint\dadosFuncionario.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\dadosFuncionario\obj\Debug\net7.0\dadosFuncionario.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\dadosFuncionario\obj\Debug\net7.0\dadosFuncionario.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\dadosFuncionario\obj\Debug\net7.0\ref\dadosFuncionario.dll

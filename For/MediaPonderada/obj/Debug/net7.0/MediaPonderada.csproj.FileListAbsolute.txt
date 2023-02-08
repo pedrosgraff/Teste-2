@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\MediaPonderada\obj\Debug\net7.0\MediaPonderada.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\MediaPonderada\obj\Debug\net7.0\MediaPonderada.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\MediaPonderada\obj\Debug\net7.0\MediaPonderada.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\MediaPonderada\obj\Debug\net7.0\MediaPonderada.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\MediaPonderada\obj\Debug\net7.0\MediaPonderada.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\MediaPonderada\bin\Debug\net7.0\MediaPonderada.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\MediaPonderada\bin\Debug\net7.0\MediaPonderada.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\MediaPonderada\bin\Debug\net7.0\MediaPonderada.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\MediaPonderada\bin\Debug\net7.0\MediaPonderada.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\MediaPonderada\bin\Debug\net7.0\MediaPonderada.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\MediaPonderada\obj\Debug\net7.0\MediaPonderada.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\MediaPonderada\obj\Debug\net7.0\refint\MediaPonderada.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\MediaPonderada\obj\Debug\net7.0\MediaPonderada.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\MediaPonderada\obj\Debug\net7.0\MediaPonderada.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\MediaPonderada\obj\Debug\net7.0\ref\MediaPonderada.dll

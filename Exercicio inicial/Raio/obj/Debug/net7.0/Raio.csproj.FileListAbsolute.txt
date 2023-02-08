@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\Raio\obj\Debug\net7.0\Raio.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\Raio\obj\Debug\net7.0\Raio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\Raio\obj\Debug\net7.0\Raio.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\Raio\obj\Debug\net7.0\Raio.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\Raio\obj\Debug\net7.0\Raio.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\Raio\bin\Debug\net7.0\Raio.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\Raio\bin\Debug\net7.0\Raio.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\Raio\bin\Debug\net7.0\Raio.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\Raio\bin\Debug\net7.0\Raio.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\Raio\bin\Debug\net7.0\Raio.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\Raio\obj\Debug\net7.0\Raio.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\Raio\obj\Debug\net7.0\refint\Raio.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\Raio\obj\Debug\net7.0\Raio.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\Raio\obj\Debug\net7.0\Raio.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\Raio\obj\Debug\net7.0\ref\Raio.dll

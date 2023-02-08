@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Arrays\Arrays\bin\Debug\net7.0\Arrays.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Arrays\Arrays\bin\Debug\net7.0\Arrays.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Arrays\Arrays\bin\Debug\net7.0\Arrays.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Arrays\Arrays\bin\Debug\net7.0\Arrays.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Arrays\Arrays\bin\Debug\net7.0\Arrays.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Arrays\Arrays\obj\Debug\net7.0\Arrays.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Arrays\Arrays\obj\Debug\net7.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Arrays\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Arrays\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Arrays\Arrays\obj\Debug\net7.0\Arrays.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Arrays\Arrays\obj\Debug\net7.0\Arrays.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Arrays\Arrays\obj\Debug\net7.0\refint\Arrays.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Arrays\Arrays\obj\Debug\net7.0\Arrays.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Arrays\Arrays\obj\Debug\net7.0\Arrays.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Arrays\Arrays\obj\Debug\net7.0\ref\Arrays.dll

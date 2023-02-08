@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\CalcDivisores\obj\Debug\net7.0\CalcDivisores.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\CalcDivisores\obj\Debug\net7.0\CalcDivisores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\CalcDivisores\obj\Debug\net7.0\CalcDivisores.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\CalcDivisores\obj\Debug\net7.0\CalcDivisores.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\CalcDivisores\obj\Debug\net7.0\CalcDivisores.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\CalcDivisores\bin\Debug\net7.0\CalcDivisores.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\CalcDivisores\bin\Debug\net7.0\CalcDivisores.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\CalcDivisores\bin\Debug\net7.0\CalcDivisores.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\CalcDivisores\bin\Debug\net7.0\CalcDivisores.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\CalcDivisores\bin\Debug\net7.0\CalcDivisores.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\CalcDivisores\obj\Debug\net7.0\CalcDivisores.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\CalcDivisores\obj\Debug\net7.0\refint\CalcDivisores.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\CalcDivisores\obj\Debug\net7.0\CalcDivisores.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\CalcDivisores\obj\Debug\net7.0\CalcDivisores.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\CalcDivisores\obj\Debug\net7.0\ref\CalcDivisores.dll

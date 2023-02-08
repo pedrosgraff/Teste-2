@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\cartesiano\bin\Debug\net7.0\cartesiano.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\cartesiano\bin\Debug\net7.0\cartesiano.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\cartesiano\bin\Debug\net7.0\cartesiano.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\cartesiano\bin\Debug\net7.0\cartesiano.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\cartesiano\bin\Debug\net7.0\cartesiano.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\cartesiano\obj\Debug\net7.0\cartesiano.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\cartesiano\obj\Debug\net7.0\cartesiano.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\cartesiano\obj\Debug\net7.0\cartesiano.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\cartesiano\obj\Debug\net7.0\cartesiano.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\cartesiano\obj\Debug\net7.0\cartesiano.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\cartesiano\obj\Debug\net7.0\cartesiano.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\cartesiano\obj\Debug\net7.0\refint\cartesiano.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\cartesiano\obj\Debug\net7.0\cartesiano.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\cartesiano\obj\Debug\net7.0\cartesiano.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\While\cartesiano\obj\Debug\net7.0\ref\cartesiano.dll

@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\CalcSalario\bin\Debug\net7.0\CalcSalario.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\CalcSalario\bin\Debug\net7.0\CalcSalario.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\CalcSalario\bin\Debug\net7.0\CalcSalario.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\CalcSalario\bin\Debug\net7.0\CalcSalario.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\CalcSalario\bin\Debug\net7.0\CalcSalario.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\CalcSalario\obj\Debug\net7.0\CalcSalario.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\CalcSalario\obj\Debug\net7.0\CalcSalario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\CalcSalario\obj\Debug\net7.0\CalcSalario.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\CalcSalario\obj\Debug\net7.0\CalcSalario.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\CalcSalario\obj\Debug\net7.0\CalcSalario.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\CalcSalario\obj\Debug\net7.0\CalcSalario.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\CalcSalario\obj\Debug\net7.0\refint\CalcSalario.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\CalcSalario\obj\Debug\net7.0\CalcSalario.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\CalcSalario\obj\Debug\net7.0\CalcSalario.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\CalcSalario\obj\Debug\net7.0\ref\CalcSalario.dll

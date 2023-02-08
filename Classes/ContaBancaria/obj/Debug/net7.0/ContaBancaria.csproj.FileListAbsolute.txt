@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\ContaBancaria\bin\Debug\net7.0\ContaBancaria.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\ContaBancaria\bin\Debug\net7.0\ContaBancaria.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\ContaBancaria\bin\Debug\net7.0\ContaBancaria.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\ContaBancaria\bin\Debug\net7.0\ContaBancaria.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\ContaBancaria\bin\Debug\net7.0\ContaBancaria.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\ContaBancaria\obj\Debug\net7.0\ContaBancaria.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\ContaBancaria\obj\Debug\net7.0\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\ContaBancaria\obj\Debug\net7.0\ContaBancaria.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\ContaBancaria\obj\Debug\net7.0\ContaBancaria.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\ContaBancaria\obj\Debug\net7.0\ContaBancaria.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\ContaBancaria\obj\Debug\net7.0\ContaBancaria.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\ContaBancaria\obj\Debug\net7.0\refint\ContaBancaria.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\ContaBancaria\obj\Debug\net7.0\ContaBancaria.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\ContaBancaria\obj\Debug\net7.0\ContaBancaria.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Classes\ContaBancaria\obj\Debug\net7.0\ref\ContaBancaria.dll

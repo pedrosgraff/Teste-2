@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\Fatorial\bin\Debug\net7.0\Fatorial.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\Fatorial\bin\Debug\net7.0\Fatorial.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\Fatorial\bin\Debug\net7.0\Fatorial.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\Fatorial\bin\Debug\net7.0\Fatorial.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\Fatorial\bin\Debug\net7.0\Fatorial.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\Fatorial\obj\Debug\net7.0\Fatorial.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\Fatorial\obj\Debug\net7.0\Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\Fatorial\obj\Debug\net7.0\Fatorial.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\Fatorial\obj\Debug\net7.0\Fatorial.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\Fatorial\obj\Debug\net7.0\Fatorial.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\Fatorial\obj\Debug\net7.0\Fatorial.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\Fatorial\obj\Debug\net7.0\refint\Fatorial.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\Fatorial\obj\Debug\net7.0\Fatorial.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\Fatorial\obj\Debug\net7.0\Fatorial.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\Fatorial\obj\Debug\net7.0\ref\Fatorial.dll

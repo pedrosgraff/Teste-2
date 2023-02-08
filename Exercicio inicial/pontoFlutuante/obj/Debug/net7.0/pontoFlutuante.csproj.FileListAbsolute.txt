@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\pontoFlutuante\bin\Debug\net7.0\pontoFlutuante.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\pontoFlutuante\bin\Debug\net7.0\pontoFlutuante.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\pontoFlutuante\bin\Debug\net7.0\pontoFlutuante.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\pontoFlutuante\bin\Debug\net7.0\pontoFlutuante.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\pontoFlutuante\bin\Debug\net7.0\pontoFlutuante.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\pontoFlutuante\obj\Debug\net7.0\pontoFlutuante.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\pontoFlutuante\obj\Debug\net7.0\pontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\pontoFlutuante\obj\Debug\net7.0\pontoFlutuante.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\pontoFlutuante\obj\Debug\net7.0\pontoFlutuante.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\pontoFlutuante\obj\Debug\net7.0\pontoFlutuante.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\pontoFlutuante\obj\Debug\net7.0\pontoFlutuante.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\pontoFlutuante\obj\Debug\net7.0\refint\pontoFlutuante.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\pontoFlutuante\obj\Debug\net7.0\pontoFlutuante.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\pontoFlutuante\obj\Debug\net7.0\pontoFlutuante.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\pontoFlutuante\obj\Debug\net7.0\ref\pontoFlutuante.dll

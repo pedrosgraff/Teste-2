@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\SomaValores\obj\Debug\net7.0\SomaValores.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\SomaValores\obj\Debug\net7.0\SomaValores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\SomaValores\obj\Debug\net7.0\SomaValores.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\SomaValores\obj\Debug\net7.0\SomaValores.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\SomaValores\obj\Debug\net7.0\SomaValores.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\SomaValores\bin\Debug\net7.0\SomaValores.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\SomaValores\bin\Debug\net7.0\SomaValores.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\SomaValores\bin\Debug\net7.0\SomaValores.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\SomaValores\bin\Debug\net7.0\SomaValores.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\SomaValores\bin\Debug\net7.0\SomaValores.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\SomaValores\obj\Debug\net7.0\SomaValores.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\SomaValores\obj\Debug\net7.0\refint\SomaValores.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\SomaValores\obj\Debug\net7.0\SomaValores.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\SomaValores\obj\Debug\net7.0\SomaValores.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\SomaValores\obj\Debug\net7.0\ref\SomaValores.dll

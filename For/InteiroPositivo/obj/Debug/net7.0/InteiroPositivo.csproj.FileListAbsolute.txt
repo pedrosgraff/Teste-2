@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\InteiroPositivo\obj\Debug\net7.0\InteiroPositivo.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\InteiroPositivo\obj\Debug\net7.0\InteiroPositivo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\InteiroPositivo\obj\Debug\net7.0\InteiroPositivo.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\InteiroPositivo\obj\Debug\net7.0\InteiroPositivo.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\InteiroPositivo\obj\Debug\net7.0\InteiroPositivo.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\InteiroPositivo\bin\Debug\net7.0\InteiroPositivo.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\InteiroPositivo\bin\Debug\net7.0\InteiroPositivo.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\InteiroPositivo\bin\Debug\net7.0\InteiroPositivo.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\InteiroPositivo\bin\Debug\net7.0\InteiroPositivo.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\InteiroPositivo\bin\Debug\net7.0\InteiroPositivo.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\InteiroPositivo\obj\Debug\net7.0\InteiroPositivo.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\InteiroPositivo\obj\Debug\net7.0\refint\InteiroPositivo.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\InteiroPositivo\obj\Debug\net7.0\InteiroPositivo.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\InteiroPositivo\obj\Debug\net7.0\InteiroPositivo.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\InteiroPositivo\obj\Debug\net7.0\ref\InteiroPositivo.dll

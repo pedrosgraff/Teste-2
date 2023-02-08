@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\For\obj\Debug\net7.0\For.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\For\obj\Debug\net7.0\For.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\For\obj\Debug\net7.0\For.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\For\obj\Debug\net7.0\For.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\For\obj\Debug\net7.0\For.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\For\bin\Debug\net7.0\For.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\For\bin\Debug\net7.0\For.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\For\bin\Debug\net7.0\For.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\For\bin\Debug\net7.0\For.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\For\bin\Debug\net7.0\For.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\For\obj\Debug\net7.0\For.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\For\obj\Debug\net7.0\refint\For.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\For\obj\Debug\net7.0\For.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\For\obj\Debug\net7.0\For.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\For\obj\Debug\net7.0\ref\For.dll

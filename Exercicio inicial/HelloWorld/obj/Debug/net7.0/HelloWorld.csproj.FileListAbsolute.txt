@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\HelloWorld\obj\Debug\net7.0\refint\HelloWorld.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\HelloWorld\obj\Debug\net7.0\ref\HelloWorld.dll

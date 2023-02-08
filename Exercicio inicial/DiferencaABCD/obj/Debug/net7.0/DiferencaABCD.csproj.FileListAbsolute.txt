@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\DiferencaABCD\bin\Debug\net7.0\DiferencaABCD.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\DiferencaABCD\bin\Debug\net7.0\DiferencaABCD.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\DiferencaABCD\bin\Debug\net7.0\DiferencaABCD.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\DiferencaABCD\bin\Debug\net7.0\DiferencaABCD.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\DiferencaABCD\bin\Debug\net7.0\DiferencaABCD.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\DiferencaABCD\obj\Debug\net7.0\DiferencaABCD.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\DiferencaABCD\obj\Debug\net7.0\DiferencaABCD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\DiferencaABCD\obj\Debug\net7.0\DiferencaABCD.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\DiferencaABCD\obj\Debug\net7.0\DiferencaABCD.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\DiferencaABCD\obj\Debug\net7.0\DiferencaABCD.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\DiferencaABCD\obj\Debug\net7.0\DiferencaABCD.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\DiferencaABCD\obj\Debug\net7.0\refint\DiferencaABCD.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\DiferencaABCD\obj\Debug\net7.0\DiferencaABCD.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\DiferencaABCD\obj\Debug\net7.0\DiferencaABCD.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\HelloWorld\DiferencaABCD\obj\Debug\net7.0\ref\DiferencaABCD.dll

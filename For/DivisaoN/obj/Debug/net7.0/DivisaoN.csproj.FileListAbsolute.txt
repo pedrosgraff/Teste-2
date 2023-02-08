@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\DivisaoN\obj\Debug\net7.0\DivisaoN.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\DivisaoN\obj\Debug\net7.0\DivisaoN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\DivisaoN\obj\Debug\net7.0\DivisaoN.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\DivisaoN\obj\Debug\net7.0\DivisaoN.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\DivisaoN\obj\Debug\net7.0\DivisaoN.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\DivisaoN\bin\Debug\net7.0\DivisaoN.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\DivisaoN\bin\Debug\net7.0\DivisaoN.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\DivisaoN\bin\Debug\net7.0\DivisaoN.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\DivisaoN\bin\Debug\net7.0\DivisaoN.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\DivisaoN\bin\Debug\net7.0\DivisaoN.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\DivisaoN\obj\Debug\net7.0\DivisaoN.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\DivisaoN\obj\Debug\net7.0\refint\DivisaoN.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\DivisaoN\obj\Debug\net7.0\DivisaoN.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\DivisaoN\obj\Debug\net7.0\DivisaoN.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\For\DivisaoN\obj\Debug\net7.0\ref\DivisaoN.dll
